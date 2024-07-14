@@ -1,0 +1,52 @@
+body {
+    margin: 0%;
+    padding: 0%;
+   background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20230526/pngtree-image-of-gold-and-yellow-based-qr-codes-image_2659171.jpg');
+    display: flex;
+    align-items: center;
+   justify-content: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   
+   
+
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+ 
+   background-color:white;
+   margin-top: 150px;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   padding: 20px;
+   width: 400px;
+   height:500px;
+   border-radius: 10px;
+   box-shadow: 1px 1px 10px black;
+
+}
+
+input {
+    height: 30px;
+    width: 290px;
+    background-color:white;
+    border-radius: 5px;
+    box-shadow: 1px 1px 2px black;
+}
+
+button {
+    margin-top: 40px;
+    margin-left: 120px;
+    height: 40px;
+    width: 150px;
+    border-radius: 15px;
+    background-color: rgb(5, 5, 5,0.7);
+    color: white;
+}
+
+button:hover {
+    box-shadow: inset 1px 1px 3px white ;
+}
